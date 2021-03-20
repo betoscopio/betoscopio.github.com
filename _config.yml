@@ -1,9 +1,15 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+title: Alberto Arancibia
+tagline: 'Software developer'
+email: aarancib@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  I'm a software developer from Chile, I build, configure and deploy things for the web.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "localhost:4001"
+twitter_username: betoscopio
+github_username:  betoscopio
+drupal_username: betoscopio
+
 paginate:            5
 permalink:           pretty
 

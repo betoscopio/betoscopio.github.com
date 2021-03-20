@@ -1,29 +1,24 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
+## Hi, I am Alberto Arancibia
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Software developer, open standards, free software advocate and drupaler. Proudly geek.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+You can find me at:
+- <a href="https://github.com/betoscopio">Github</a>
+- <a href="https://twitter.com/betoscopio">Twitter</a>
+- <a href="https://drupal.org/u/betoscopio">Drupal</a>
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Software developer from Santiago, Chile, where I work doing development, software architecture and infraestructure configuration, I have a degree in Computer Science. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+With more than 10 years of experience doing web related work, I have a focus on build maintainble, compatible and upgradable software. Linux user since Firefox was a new thing.
 
-## Setup
+I have been involved in the Drupal community for about 10 years, have organized [local Meetups](https://www.meetup.com/es-ES/Drupal-Chile/) and participated in many Drupal Events, here are some of my [talks]({% link talks.md %}).
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
