@@ -5,7 +5,7 @@ email: aarancib@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a software developer from Chile, I build, configure and deploy things for the web.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "localhost:4001"
+url: "https://betoscopio.github.io/"
 twitter_username: betoscopio
 github_username:  betoscopio
 drupal_username: betoscopio
@@ -13,11 +13,11 @@ drupal_username: betoscopio
 paginate:            5
 permalink:           pretty
 
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+# About/contact (Original author)
+#author:
+#  name:              Mark Otto
+#  url:               https://twitter.com/mdo
+#  email:             markdotto@gmail.com
 
 # Gems
 plugins:
