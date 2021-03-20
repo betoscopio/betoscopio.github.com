@@ -3,8 +3,6 @@ layout: page
 permalink: /
 ---
 
-# Hi, I am Alberto Arancibia
-
 <p class="message">
   Software developer, open standards, free software advocate and drupaler. Proudly geek.
 </p>
