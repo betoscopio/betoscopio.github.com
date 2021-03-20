@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /
+layout: home
 ---
 
 <p class="message">
