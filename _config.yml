@@ -12,6 +12,7 @@ drupal_username: betoscopio
 
 paginate:            5
 permalink:           pretty
+excerpt_separator: <!--more-->
 
 # About/contact (Original author)
 #author:
