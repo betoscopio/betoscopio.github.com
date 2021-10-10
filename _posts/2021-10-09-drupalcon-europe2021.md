@@ -6,6 +6,8 @@ title: DrupalCon Europe 2021
 The last DrupalCon Europe just happened, the fourth Virtual DrupalCon, and possibly(?) the last one. Here is my take on this year’s DrupalCon Europe.
 <!--more-->
 
+![image](/assets/images/drupalcon-eu2021.jpeg)
+
 The week started early for me, Monday at 04:00 am, but that was a small sacrifice to pay for attending a conference with a 5 hours timezone difference from the comfort of my home. The chosen platform was [Hopin](https://hopin.com/), which worked pretty well with the limitations of a conference but enabling the participation and communication of the participants.
 
 A two screens setup, the [Drupal Slack page](https://drupal.org/slack), [Drupal.org documentation](https://www.drupal.org/docs/), [development tools](https://www.drupal.org/tools), [Hopin Event](https://app.hopin.com/events/drupalcon-europe-2021/), the [Drupal Contributions website](https://drupalcontributions.opensocial.site/) and many open browser tabs were the tools this time. I could say that gave a pretty close result as an in-person format at least in the learning experience.
