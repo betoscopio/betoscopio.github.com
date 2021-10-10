@@ -6,7 +6,7 @@ title: DrupalCon Europe 2021
 The last DrupalCon Europe just happened, the fourth Virtual DrupalCon, and possibly(?) the last one. Here is my take on this year’s DrupalCon Europe.
 <!--more-->
 
-![image](/assets/images/drupalcon-eu2021.jpeg)
+![image]({{ site.url }}/assets/images/drupalcon-eu2021.jpeg)
 
 The week started early for me, Monday at 04:00 am, but that was a small sacrifice to pay for attending a conference with a 5 hours timezone difference from the comfort of my home. The chosen platform was [Hopin](https://hopin.com/), which worked pretty well with the limitations of a conference but enabling the participation and communication of the participants.
 
