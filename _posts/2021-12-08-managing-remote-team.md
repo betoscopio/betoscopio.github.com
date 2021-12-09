@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Manage a Remote Team" by GitLab.
+title: '"How to Manage a Remote Team" by GitLab'
 published: true
 tags: remote work-environment
 categories: blog
