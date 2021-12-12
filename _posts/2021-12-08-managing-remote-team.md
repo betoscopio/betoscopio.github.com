@@ -6,19 +6,20 @@ tags: remote work-environment
 categories: blog
 ---
 
-Last week I finished the course [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management) created by GitLab/Coursera. I could get some consolidation of some practical knowledge that I alredy had and of course some great information new for me. Here are my views about it.
+Last week I finished the course [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management) created by GitLab/Coursera. I could get some consolidation of some practical knowledge that I already had and, of course, some great new information for me. Here are my views on it.
 
 <!--more-->
 
-I must say, I was not looking for for a course like this, as background I have been using [GitLab](https://about.gitlab.com/) as DCVS and automation tool in my daily workflow since about 4 years. Wanting to know more about GitLab as a project manager tool I stumble upon with the course [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management) and considering it is a free course I gave it a try. 
-The course is designed to be studied in a 5 weeks period dividing it for a specific topic on each week.
-- Week 1: Summary of the topics and presentation of reference material.
-- Week 2: Challenges of remote teams, focusing on communication, iteration of changes, documentation and transparency.
-- Week 3: Levels of remote adaptation and definitions of steps for a remote transition.
-- Week 4: Culture, values and team environment. Differences in how to enforce a culture in a collocated and a remote environments, some examples and how to create our own ones.
-- Week 5: The final test. Create a Remote Work Transition Plan for an hypthetical (or not) organization.
+I must say, I was not looking for a course like this. As a background, I have been using [GitLab](https://about.gitlab.com/) as DCVS and automation tool in my daily workflow for about 4 years. Wanting to know more about GitLab as a project manager tool, I stumbled upon the course [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management) and, considering it is a free course, I gave it a try.
 
-Considering how the job landscape have changed since last year with the pandemic, and how many of us think we will never come back to the same work environment we had before, I think this course is fundamental to understand how current and future work environments will be.
+The course is designed to be studied in a 5 week period, dividing it into a specific topic each week.
+- Week 1: Summary of the topics and presentation of reference material.
+- Week 2: Challenges of remote teams, focusing on communication, iteration of changes, documentation, and transparency.
+- Week 3: Levels of remote adaptation and definitions of steps for a remote transition.
+- Week 4: Culture, values, and team environment. Differences in how to enforce a culture in a collocated and a remote environments, some examples and how to create our own ones.
+- Week 5: The Final Test. Create a Remote Work Transition Plan for a hypthetical (or not) organization. 
+
+Considering how the job landscape has changed since last year with the pandemic, and how many of us think we will never come back to the same work environment we had before, I think this course is fundamental to understand how current and future work environments will be like.
 
 Some remarkable lessons:
 - An hybrid work environment is the most difficult to implement.
