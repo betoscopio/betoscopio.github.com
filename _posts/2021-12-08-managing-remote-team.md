@@ -22,14 +22,14 @@ The course is designed to be studied in a 5 week period, dividing it into a spec
 Considering how the job landscape has changed since last year with the pandemic, and how many of us think we will never come back to the same work environment we had before, I think this course is fundamental to understand how current and future work environments will be like.
 
 Some remarkable lessons:
-- An hybrid work environment is the most difficult to implement.
+- A hybrid work environment is the most difficult to implement.
 - Communication is essential.
 - Transparency is vital.
 - Document everything, stablish a single source of truth.
 - Measure results, not hours.
 - Iterate and improve.
 - Well defined culture and values for the organization are key.
-- Predict wth example.
+- Predict with example.
 
 References:
 - [GitLab's Remote Playbook](https://learn.gitlab.com/coursera-remote-work/)
